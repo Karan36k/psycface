@@ -7,4 +7,4 @@ massivefile.com - psycface is an interactive audio interface that generates very
 preview of this project - 
 ![massivefile.com/psycface](https://github.com/karan36k/psycface/blob/main/img-26.PNG?raw=true)
 
-demo - massivefile.com/psycface
+demo - https://massivefile.com/psycface
